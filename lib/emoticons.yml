@@ -1,39 +1,53 @@
+require "yaml"
+
 angel:
-  - "O:)"      
-  - "☜(⌒▽⌒)☞"
+  english: "O:)"      
+  japanese:"☜(⌒▽⌒)☞"
+
 angry:
-  - ">:("
-  - "ヽ(ｏ`皿′ｏ)ﾉ"
+  english: ">:("
+  japanese: "ヽ(ｏ`皿′ｏ)ﾉ"
+
 bored:
-  - ":O"
-  - "(ΘεΘ;)"
+  english: ":O"
+  japanese: "(ΘεΘ;)"
+
 confused:
-  - "%)"
-  - "(゜.゜)"
-embarrassed:
-  - ":$" 
-  - "(#^.^#)"
+ english: "%)"
+ japanese: "(゜.゜)"
+
+embarrased:
+  english:":$" 
+  japanese: "(#^.^#)"
+
 fish:
-  - "><>"
-  - ">゜))))彡"
+ english: "><>"
+ japanese: ">゜))))彡"
+
 glasses:
-  - "8D"
-  - "(^0_0^)"
+ english: "8D"
+  japanese: "(^0_0^)"
+
 grinning:
-  - "=D"
-  - "(￣ー￣)"
+  english: "=D"
+ japanese: "(￣ー￣)"
+
 happy:
-  - ":)"
-  - "(＾ｖ＾)"
+ english: ":)"
+  japanese:"(＾ｖ＾)"
+
 kiss:
-  - ":*"
-  - "(*^3^)/~☆"
+  english: ":*"
+  japanese: "(*^3^)/~☆"
 sad:
-  - ":'("
-  - "(Ｔ▽Ｔ)"
+  english: ":'("
+  japanese:"(Ｔ▽Ｔ)"
+
 surprised:
-  - ":o"
-  - "o_O"
+  english:":o"
+ japanese: "o_O"
+
 wink:
-  - ";)"
-  - "(^_-)"
+ english: ";)"
+ japanese:"(^_-)"
+ 
